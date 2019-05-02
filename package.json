@@ -24,11 +24,13 @@
     "url": "https://github.com/ikermatias/protractor-workshop-2018/issues"
   },
   "homepage": "https://github.com/ikermatias/protractor-workshop-2018#readme",
-  "dependencies": {
-    "protractor": "^5.4.2"
-  },
   "devDependencies": {
     "@types/jasminewd2": "^2.0.6",
     "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "@types/node": "^11.13.8",
+    "chromedriver": "^74.0.0",
+    "protractor": "^5.4.2"
   }
 }
